@@ -53,7 +53,7 @@ function carregarJogo() {
 
           if (paresEncontrados === 12) {
             setTimeout(() => {
-              alert("Parabéns! Você encontrou todos as equipes! 🎉");
+              alert("Parabéns! Você encontrou todas as equipes! 🎉");
             }, 500);
           }
         } else {
